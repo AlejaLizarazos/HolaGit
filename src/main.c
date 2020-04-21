@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 void main(){
+    int a,b
     print("hello world");
-    return 0;
+    return a+b;
+    
 }
